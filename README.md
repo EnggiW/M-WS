@@ -5,6 +5,7 @@ Aplikasi ini adalah aplikasi navigasi sederhana yang dibangun menggunakan Flutte
 Dengan memanfaatkan JSONPlaceholder, sebuah layanan API palsu yang dirancang untuk pengujian, aplikasi ini menunjukkan cara integrasi API dalam Flutter. Meskipun pengguna dapat melakukan perubahan seperti membuat, mengedit, dan menghapus postingan, semua perubahan tidak akan disimpan secara permanen. Hal ini dikarenakan JSONPlaceholder tidak menyimpan perubahan secara nyata. Aplikasi ini berfungsi sebagai alat pembelajaran bagi pengembang pemula untuk memahami konsep dasar pengembangan aplikasi mobile tanpa risiko merusak data sebenarnya.
 
 # Tampilan Sekilas Halaman Home
+Penggunaan menggunakan device Pixel 4a API 31 dengan menggunakan dummy server dari JSONPlaceholder
 ![Screenshot 2024-11-04 154952](https://github.com/user-attachments/assets/0b064d1c-8634-4fa5-a82b-d28d756a5944)
 
 ## Getting Started
