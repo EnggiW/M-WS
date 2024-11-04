@@ -1,10 +1,8 @@
 # mws_pert7
 
-Ini adalah aplikasi navigasi sederhana yang dibangun menggunakan Flutter. Aplikasi ini dirancang untuk memberikan pengalaman pengguna yang intuitif dalam menjelajahi berbagai fitur. Dengan menggunakan arsitektur yang sederhana, pengguna dapat dengan mudah berpindah antar halaman untuk membuat, membaca, memperbarui, dan menghapus (CRUD) postingan.
+Aplikasi ini adalah aplikasi navigasi sederhana yang dibangun menggunakan Flutter, dirancang untuk memberikan pengalaman pengguna yang intuitif dalam menjelajahi berbagai fitur. Dengan arsitektur yang sederhana, pengguna dapat dengan mudah berpindah antar halaman untuk membuat, membaca, memperbarui, dan menghapus (CRUD) postingan.
 
-Aplikasi ini bertujuan untuk membantu pengguna memahami cara kerja Flutter dalam membangun aplikasi dengan navigasi yang baik dan pengelolaan data menggunakan HTTP. Dengan memanfaatkan JSONPlaceholder, aplikasi ini juga memberikan contoh nyata bagaimana API dapat diintegrasikan ke dalam aplikasi Flutter, yang bermanfaat bagi pengembang pemula dalam mempelajari konsep dasar pengembangan aplikasi mobile.
-
-Aplikasi ini adalah aplikasi navigasi sederhana yang dibangun menggunakan Flutter dan terintegrasi dengan JSONPlaceholder, sebuah layanan API palsu yang dirancang untuk pengujian. Meskipun pengguna dapat membuat, mengedit, dan menghapus postingan dalam aplikasi ini, semua perubahan yang dilakukan tidak akan mengubah data secara permanen. Hal ini karena JSONPlaceholder tidak menyimpan perubahan secara nyata. Aplikasi ini berfungsi sebagai alat pembelajaran untuk memahami konsep dasar CRUD tanpa risiko merusak data sebenarnya.
+Dengan memanfaatkan JSONPlaceholder, sebuah layanan API palsu yang dirancang untuk pengujian, aplikasi ini menunjukkan cara integrasi API dalam Flutter. Meskipun pengguna dapat melakukan perubahan seperti membuat, mengedit, dan menghapus postingan, semua perubahan tidak akan disimpan secara permanen. Hal ini dikarenakan JSONPlaceholder tidak menyimpan perubahan secara nyata. Aplikasi ini berfungsi sebagai alat pembelajaran bagi pengembang pemula untuk memahami konsep dasar pengembangan aplikasi mobile tanpa risiko merusak data sebenarnya.
 
 ## Getting Started
 
